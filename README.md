@@ -40,4 +40,4 @@ python run.py
 ```
 Can you identify and fix the issue that is causing the error?
 
-After fixing the issue, can you identify and correct any other mistakes in the [code.py](/Users/johannes/workspace/PythonInterview/src/interview/code.py) script?
+After fixing the issue, can you identify and correct any other mistakes in the [code.py](src/interview/code.py) script?
